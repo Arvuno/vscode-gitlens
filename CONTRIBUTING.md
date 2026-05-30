@@ -406,3 +406,6 @@ runBenchmark();
 - **Focus on hot paths**: Benchmark performance-critical code
 
 See the full [Benchmarking Guide](docs/benchmarking.md) for detailed information and the `src/system/__tests__/string.benchmark.ts` example.
+
+<!-- Thanks for contributing! -->
+
